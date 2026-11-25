@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BTV.bd" tvg-name="BTV National" group-title="Bangladesh",BTV National (Primary)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://d229kpbsb5jevy.cloudfront.net/bcd/hls/btv/index.m3u8
-
-#EXTINF:-1 tvg-id="BTV.bd" tvg-name="BTV National Backup" group-title="Bangladesh",BTV National (Backup Mirror)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv-org.github.io/iptv/countries/bd.m3u
-
-#EXTINF:-1 tvg-id="BTVWorld.bd" tvg-name="BTV World" group-title="Bangladesh",BTV World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://d229kpbsb5jevy.cloudfront.net/bcd/hls/btvworld/index.m3u8
-
-#EXTINF:-1 tvg-id="BTVChittagong.bd" tvg-name="BTV Chattogram" group-title="Bangladesh",BTV Chattogram
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://d229kpbsb5jevy.cloudfront.net/bcd/hls/btvctg/index.m3u8
-
-#EXTINF:-1 tvg-id="SangsadTV.bd" tvg-name="Sangsad Bangladesh TV" group-title="Bangladesh",Sangsad Bangladesh TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://d229kpbsb5jevy.cloudfront.net/bcd/hls/sangsad/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1795615229~Starts=1795611629~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWY1YzdmNDItZWJkMi00ZmUwLWJlYWItNWM5ZTIzMDc3ZmI1In0~Signature=DR5idtVjyRs_PI13lbGPI0rSy5175fFeA54_utweP1AztiCdRbKRZu13HZaeT6rbww1400qMrkyqzxEd9twRAg
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",Zee Bangla
