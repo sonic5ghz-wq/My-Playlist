@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="BTVHD.bd" tvg-name="BTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Bangladesh",BTV HD
+https://streams.btvlive.gov.bd/live/6d76c112-78e9-414c-afe0-c95cda385304/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png",Somoy TV
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1795615229~Starts=1795611629~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWY1YzdmNDItZWJkMi00ZmUwLWJlYWItNWM5ZTIzMDc3ZmI1In0~Signature=DR5idtVjyRs_PI13lbGPI0rSy5175fFeA54_utweP1AztiCdRbKRZu13HZaeT6rbww1400qMrkyqzxEd9twRAg
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",Zee Bangla
