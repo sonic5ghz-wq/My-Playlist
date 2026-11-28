@@ -1,3 +1,1 @@
-# My-Playlist
-
-# Auto Update IPTV.m3u
+# Welcome My IPTV Playlist
